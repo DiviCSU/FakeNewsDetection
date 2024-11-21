@@ -6,3 +6,5 @@ https://www.kaggle.com/code/sayande01/fake-news-classification-using-logistic-re
 Kaggle has the analysis code. Can be used while developing the code.
 
 Test - Training and testing datasets are to be split 70-30
+
+true data cleaned
